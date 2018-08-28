@@ -286,7 +286,7 @@ ANIMALS = [
     'trout',
     'turkey',
     'turtle',
-    'vicuña',
+    'vicuna',
     'vole',
     'wallaby',
     'waxworm',
